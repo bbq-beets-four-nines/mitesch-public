@@ -18,7 +18,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: macos-latest-xlarge
+    runs-on: 49095185-312b-44c8-ba14-78eaea819652-11
     strategy:
       matrix:
         node_version: ['18.x', '20.x']
